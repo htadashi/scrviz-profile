@@ -1,0 +1,23 @@
+{
+  "scrviz": {
+    "owner": {
+      "login": "htadashi",
+      "rows": [
+        {
+          "description": "Google Apps Script developer",
+          "link": "https://www.upwork.com/freelancers/~019e40aefb59f213b6",
+          "tip": "API integration expertise",
+          "icon": "mdi-code-tags",
+          "visible": true
+        },
+        {
+          "description": "Linkedin Profile",
+          "link": "https://www.linkedin.com/in/hugo-k-2b7476157/",
+          "tip": "Tadashi's linkedin profile",
+          "icon": "mdi-linkedin",
+          "visible": true
+        }
+      ]
+    }
+  }
+}
